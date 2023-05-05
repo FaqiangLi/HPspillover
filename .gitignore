@@ -1,0 +1,13 @@
+# Data Files 
+*.csv
+*.dta
+*.mat
+
+# Folders
+/log/
+/data/
+/reference/
+/working/
+/output/
+ 
+.DS_Store
