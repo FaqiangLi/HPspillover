@@ -4,10 +4,10 @@
 *.mat
 
 # Folders
-/log/
-/data/
-/reference/
-/working/
-/output/
+log/
+data/
+reference/
+working/
+output/
  
 .DS_Store
